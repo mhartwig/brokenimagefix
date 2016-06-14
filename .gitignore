@@ -1,0 +1,13 @@
+.idea/
+bkoen-image-hide.iml
+sh.exe.stackdump
+target/
+src/main/webapp/VAADIN/gwt-unitCache/
+src/main/webapp/VAADIN/widgetsets/
+*.iml
+brokenimagefix-demo/src/main/webapp/VAADIN/gwt-unitCache/
+brokenimagefix-demo/src/main/webapp/VAADIN/widgetsets/
+brokenimagefix/src/main/webapp/VAADIN/gwt-unitCache/
+brokenimagefix/src/main/webapp/VAADIN/widgetsets/
+brokenimagefix-demo/src/main/webapp/VAADIN/themes/demotheme/styles.css
+brokenimagefix-demo/src/main/webapp/VAADIN/themes/demotheme/addons.scss

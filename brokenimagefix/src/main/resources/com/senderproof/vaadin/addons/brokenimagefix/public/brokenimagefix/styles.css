@@ -1,0 +1,10 @@
+.is-broken {
+    background: white url('91.gif') no-repeat center center !important;
+    border: 1px solid #C4C2BB;
+    border-radius: 3px;
+}
+
+.is-broken img {
+    opacity: 0;
+    border: none;
+}

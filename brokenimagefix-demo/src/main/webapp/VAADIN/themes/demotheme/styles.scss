@@ -1,0 +1,14 @@
+@import "../valo/valo.scss";
+@import "addons.scss";
+
+.demoTheme {
+
+  @include valo;
+  @include addons;
+
+  .v-image {
+    width: 150px;
+    height: 150px;
+  }
+
+}
